@@ -1,4 +1,4 @@
-import style from './styles/global.css'
+import style from './styles/global.scss'
 
 export function App() {
  
