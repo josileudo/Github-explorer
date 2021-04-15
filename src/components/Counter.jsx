@@ -6,6 +6,7 @@ export function Counter (){
   
   function increment(){
     setCounter(counter + 1)
+    console.log(counter)
   }
 
   return (
