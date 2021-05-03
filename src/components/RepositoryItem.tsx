@@ -6,7 +6,6 @@ interface RepositoryItemProps {
   }
 }
 
-
 export function RepositoryItem(props: RepositoryItemProps){
   return (
     <li>
